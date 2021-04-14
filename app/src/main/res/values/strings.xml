@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hrybkov_Mod1</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_routines">Routines</string>
+    <string name="title_statistics">Statistics</string>
+    <string name="title_home">Home</string>
+    <string name="home">Home</string>
+    <string name="rooms">ROOMS</string>
+    <string name="devices">DEVICES</string>
+    <string name="device_amount">x3 Devices</string>
+</resources>

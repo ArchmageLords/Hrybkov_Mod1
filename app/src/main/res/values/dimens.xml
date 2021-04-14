@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_app_bar">30dp</dimen>
+    <dimen name="height_tab_indicator">0dp</dimen>
+    <dimen name="home_text_size">26sp</dimen>
+    <dimen name="elevation_bottom_nav">4dp</dimen>
+    <dimen name="fab_icon_size">38dp</dimen>
+    <dimen name="margin_tab_layout">20dp</dimen>
+    <dimen name="margin_fab">35dp</dimen>
+    <dimen name="margin_top_group">10dp</dimen>
+    <dimen name="item_title_text_size">12sp</dimen>
+    <dimen name="item_quantity_text_size">10sp</dimen>
+</resources>

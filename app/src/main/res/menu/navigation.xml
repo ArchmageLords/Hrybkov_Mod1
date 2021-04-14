@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/statistics"
+        android:icon="@drawable/ic_assessment_black_24dp"
+        android:title="@string/title_statistics" />
+    <item
+        android:id="@+id/routines"
+        android:icon="@drawable/ic_public_black_24dp"
+        android:title="@string/title_routines" />
+
+    <item
+        android:id="@+id/setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/title_setting" />
+
+</menu>
